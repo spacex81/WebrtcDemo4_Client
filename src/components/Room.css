@@ -1,0 +1,7 @@
+.videos-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Creates a 2x2 grid when you have 4 videos */
+    gap: 10px;
+    max-width: 600px; /* Adjust based on your preference */
+    margin: auto;
+}

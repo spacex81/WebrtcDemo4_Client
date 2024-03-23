@@ -1,0 +1,9 @@
+.video {
+    width: 100%;
+    aspect-ratio: 16 / 9; /* Adjust based on the aspect ratio of your videos */
+}
+
+.local-video {
+    border: 2px solid purple;
+    box-shadow: 0 0 15px purple; /* Glowing effect */
+}
